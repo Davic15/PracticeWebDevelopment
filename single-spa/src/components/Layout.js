@@ -1,6 +1,7 @@
 import React from "react";
 import Navigation from "./Navigation";
 import Main from "./Main";
+import './Layout.css';
 
 const Layout = (props) => {
     const setOfValues = {
